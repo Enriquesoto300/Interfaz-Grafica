@@ -16,7 +16,7 @@ La aplicación fue desarrollada siguiendo el patrón de diseño **Modelo–Vista
 
 ---
 
-##  Captura de la Interfaz
+##  Imagen de la Interfaz gráfica
 
 ![Captura de la Aplicación](Captura/interfaz.png)
 
