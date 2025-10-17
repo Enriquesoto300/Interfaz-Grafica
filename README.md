@@ -18,7 +18,7 @@ La aplicación fue desarrollada siguiendo el patrón de diseño **Modelo–Vista
 
 ##  Imagen de la Interfaz gráfica
 
-![Captura de la Aplicación](Captura/interfaz.png.png)
+![Captura de la Aplicación](Captura/interfaz.png)
 
 > La imagen anterior se encuentra dentro de la carpeta `Captura/` del repositorio.
 
