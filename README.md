@@ -18,7 +18,7 @@ La aplicación fue desarrollada siguiendo el patrón de diseño **Modelo–Vista
 
 ##  Imagen de la Interfaz gráfica
 
-![Captura de la Aplicación](Captura/interfaz.png)
+![Captura de la Aplicación](Captura/interfaz-grafica.png)
 
 > La imagen anterior se encuentra dentro de la carpeta `Captura/` del repositorio.
 
@@ -36,7 +36,7 @@ Esta nueva versión introduce mejoras significativas tanto en **usabilidad** com
 | **Conexión a BD** | Conexión directa sin encapsulación. | Clase `EmpleadoModel` con métodos seguros y reutilizables. |
 | **Consultas SQL** | Potencialmente vulnerables. | Consultas parametrizadas → Prevención de **inyección SQL**. |
 | **Errores y validaciones** | Mensajes simples por consola. | Mensajes gráficos (`messagebox`) con advertencias y confirmaciones. |
-| **Mantenimiento** | Dificultoso (todo en un mismo archivo funcional). | Código modular, legible y extensible. |
+
 
 ---
 
