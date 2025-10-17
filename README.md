@@ -1,7 +1,7 @@
 # Sistema de Registro de Empleados (Interfaz Gráfica)
 
-**Autor:** [Enriqueso300](https://github.com/Enriqueso300)  
-**Repositorio:** [Interfaz-Grafica](https://github.com/Enriqueso300/Interfaz-Grafica)
+**Autor:** [Enriquesoto300](https://github.com/Enriquesoto300)  
+**Repositorio:** [Interfaz-Grafica](https://github.com/Enriquesoto300/Interfaz-Grafica)
 
 ---
 
