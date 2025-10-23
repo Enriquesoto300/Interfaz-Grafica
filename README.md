@@ -156,7 +156,7 @@ python nombre_del_script.py
 
 ## Imágenes comparativas
 ### Interfaz 1
-#### ![Interfaz1](Imagenes/Interfaz.png)
+#### ![Interfaz1](Imagenes/Interfaz1.png)
 
 ### Interfaz 2
 ![Interfaz2](Imagenes/Interfaz2.PNG)
